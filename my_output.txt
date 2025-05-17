@@ -1,0 +1,14 @@
+Processor Settings
+R: 2
+k0: 3
+k1: 2
+k2: 1
+F: 4
+
+Processor stats:
+Total instructions: 100000
+Avg Dispatch queue size: 26039.072266
+Maximum Dispatch queue size: 51965
+Avg inst fired per cycle: 1.921303
+Avg inst retired per cycle: 1.921303
+Total run time (cycles): 52048
